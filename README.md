@@ -3,8 +3,12 @@
 Proyecto desarrollado para el curso de **Fundamentos de Programación Orientada a Objetos (FPOO)** - Universidad del Valle.
 
 ## 👥 Integrantes
-* **Jorge Rodríguez**
-* *(Nombre de tu compañero)*
+* Jorge Rodríguez
+* Samuel Martínez Muñoz
+* Sofía Montealegre Polanco
+* Samuel Tellez Caicedo
+* Alejandro Murillo Renteria
+* 
 
 ---
 
