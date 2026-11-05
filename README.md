@@ -8,7 +8,7 @@ Proyecto desarrollado para el curso de **Fundamentos de Programación Orientada 
 * Sofía Montealegre Polanco
 * Samuel Tellez Caicedo
 * Alejandro Murillo Renteria
-* 
+
 
 ---
 
